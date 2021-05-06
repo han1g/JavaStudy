@@ -1,0 +1,8 @@
+//Format 문법
+// %[argument_index$][flag][width][precision]conversation : 문자,숫자
+// %[argument_index$][flag][width][precision]
+
+
+public class FormatExample {
+
+}

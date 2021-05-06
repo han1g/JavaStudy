@@ -1,0 +1,18 @@
+package com.obj;
+
+public class StringEx01 {
+	public static void main(String[] args) {
+		String x = "10";
+		String y = x;
+		y = "20";
+		System.out.println(x);
+		// String은 call by value??
+		// NO
+		// "10"과 "20"은 다른객체
+		// y가 "10"을 참조하다가 "20"을 참조하게 된 것
+		
+		String a = "10";
+		String b = "10";
+		System.out.println(a == b);//true
+	}
+}

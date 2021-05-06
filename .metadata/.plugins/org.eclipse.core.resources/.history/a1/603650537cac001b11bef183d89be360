@@ -1,0 +1,12 @@
+package com.obj;
+
+public class StringEx01 {
+	public static void main(String[] args) {
+		String x = "10";
+		String y = x;
+		y = "20";
+		System.out.println(x);
+		//String은 call by value??
+		//NO
+	}
+}

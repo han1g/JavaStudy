@@ -1,0 +1,15 @@
+public class Hello {
+	public static void main(String[] args) {
+		try {
+			throw Thrown
+			return;
+		} catch(Thrown e) {
+			e.printStackTrace();
+		}
+		finally {
+			System.out.println("finally");
+			//finally는 리턴하기전에 실행됨
+		}
+	}
+	
+}

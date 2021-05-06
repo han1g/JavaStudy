@@ -1,0 +1,15 @@
+
+public class Hello {
+	public static void main(String[] args) {
+		try {
+			System.out.println();
+			return;
+		} catch(Exception e) {
+			e.printStackTrace();
+		}
+		finally {
+			
+		}
+	}
+	
+}

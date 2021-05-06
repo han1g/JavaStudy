@@ -1,0 +1,7 @@
+//Format 문법
+// %[argument_index$][flag][width]
+
+
+public class FormatExample {
+
+}

@@ -1,0 +1,4 @@
+
+public class Thrown implements Throwable{
+
+}
