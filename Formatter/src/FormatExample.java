@@ -12,8 +12,7 @@ import java.util.Formatter;
 
 
 public class FormatExample {
-	public static void main(String[] args) {
-		
+	public static void main(String[] args) {		
 		Formatter f = new Formatter();
 		f.format("%1$b, %3$h, %2$5s", false, 500,'A'/*65*/);
 		//b : boolean,h : 16진수, s : string
