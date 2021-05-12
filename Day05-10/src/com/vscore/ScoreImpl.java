@@ -78,7 +78,7 @@ public class ScoreImpl implements Score {
 		}
 		
 		setVO(vo);
-		System.out.println("\n수정 완료");
+		System.out.println("\n수정 완료...............");
 		//수정완료
 
 	}
