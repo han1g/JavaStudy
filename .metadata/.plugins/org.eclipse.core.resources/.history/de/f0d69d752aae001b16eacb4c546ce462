@@ -1,9 +1,0 @@
-//Format 문법
-// %[argument_index$][flag][width][precision]conversation : 문자,숫자
-// %[argument_index$][flag][width][precision] : 날짜,시간
-// %[flags][width]conversation
-
-
-public class FormatExample {
-
-}
